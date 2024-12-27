@@ -2,3 +2,13 @@
 __pycache__
 ebp
 srp
+srp.fga
+ebp.fga
+.DS_Store
+packed_ebp.fga
+packed_srp.fga
+all_srp_txt_to_gbk.py
+gbk_srp
+rena_cp932.exe
+patch_binary.py
+
